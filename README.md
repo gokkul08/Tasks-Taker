@@ -1,7 +1,7 @@
 
 
 # Tasks Taker - MEAN Stack
-This web applicaion is built using MEAN Stack bundled with Web Pack and ECMAScript 6. The CSS components are buitl using Bootstrap.
+This web applicaion is built using MEAN Stack bundled with Web Pack and ECMAScript 6. The CSS components are built using Bootstrap.
 
 
 ## Usage
